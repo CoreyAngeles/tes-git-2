@@ -16,3 +16,4 @@ git remote add origin [url] - подключиться к репозиторию
 10. git branch [name] - создать новую ветку
 11. git checkout [branch_name] - переключиться на другую ветку
 12. git branch -d [branch_name] - Удалить ветку
+13. git merge [branch_name] - какую ветку хотим замержить в ветку в которой находимся
